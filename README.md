@@ -1,4 +1,3 @@
-```markdown
 # Veterinary Management System (VMS)
 
 This is a C++ terminal-based Veterinary Management System developed as part of the **Software Development 2 (CMP020C104S)** coursework. It enables clinic staff, veterinarians, and admins to manage pets, owners, appointments, medical records, vaccinations, and user roles in a structured and role-based environment. Data is persisted across sessions via CSV files, and role-based access ensures users can only perform permitted actions.
