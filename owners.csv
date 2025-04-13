@@ -1,0 +1,30 @@
+owner_id,name,address,phone_number,email,pet_ids,records
+1,Emily Carter,12 River Road,555-1111,emily.carter@example.com,100;101;102,1|2024-01-05|Registered new pet;2|2024-02-15|Updated contact info
+2,Michael Lee,34 Sunset Blvd,555-2222,michael.lee@example.com,103;104,1|2023-11-20|Vaccination follow-up
+3,Sophia Adams,56 Maple Street,555-3333,sophia.adams@example.com,105;106,1|2024-03-01|Inquired about diet;2|2024-03-15|Scheduled vaccination
+4,Daniel Kim,78 Oak Avenue,555-4444,daniel.kim@example.com,107;126,1|2024-01-10|No pets currently
+6,Alice Wonderland,Magic Street 7,07777123456,alice@wonderland.com,110,1|2024-03-10|Pet checkup scheduled
+7,Borat Sagdiyev,Kazakhstan St. 1,07777123456,borat@nice.com,117,1|2024-02-20|Requested pet travel info
+8,Bashar Ali,Bashar Road 9,07777123456,bashar.ali@example.com,112,1|2024-01-15|Pet vaccination completed
+9,John Doe,Simple Avenue 2,07777123456,john.doe@example.com,113;114,1|2024-03-05|Updated pet records
+10,Zlijo Uzb,Tashkent Main St.,07777123456,zlijo.uzb@example.com,115;128,1|2024-02-25|Inquired about pet care
+11,O'chiriladi Brat,Koreoche ko'cah,07777111111,nima@boladi.gbp,116;118,1|2024-03-20|Pet grooming scheduled
+12,Tekshiryapmiz,H'p adres[comma] ga,07981989898,tekshiryapmiz@example.com,,1|2024-04-01|Initial owner registration
+14,sadfsdfa afsd,fewfa[comma] sfd a,07987121212,sadfsdfa@example.com,131,1|2024-03-30|Updated owner details
+15,fasdfa asdfklj,Vergullar[comma] abilak,07989787878,fasdfa@example.com,,1|2024-04-02|Requested vet appointment
+16,Test Name,H'p adres[comma] ga,07981989898,test@example.com,,
+17,Test Name,H'p adres[comma] ga,07981989898,test@example.com,,1|2024-01-02|Bratni[comma] chiesto [comma]teksfasdfasdf[comma] asdf.;3|2025-01-23|fjasf e23[comma] [comma] vasd[comma]v asdfsea
+18,Test Name,H'p adres[comma] ga,07981989898,test@example.com,,
+20,yana o'zgaradi,adresam[comma] mayli[comma] o'zgarsin[comma],07000121212,hopam@faes.uz,,
+21,Newton Isaac,New York[comma] UK,07123212121,isac@lnd.eg,130,
+22,Muammar,Lebnon[comma] Middle-East,07123434343,ghaddafi@gmail.ly,,
+23,Winston Churchill,London[comma] UK,07321434343,w.c@afec.uk,136,
+24,Alibek,Farg'ona[comma] O'zbekiston,07987121212,alichanged@gmail.com,135,
+26,Alibek,Farg'ona[comma] O'zbekiston,07897121212,alibola@gmail.com,,
+27,Chigatoy,Ulan-ude[comma] Mongolia,07345121212,alibek@gmail.com,138;142;139,
+29,Saddam Husein,Baghdad[comma] Iraq,07777777779,saddam@teshavoy.ir,140,
+30,alpomish,marg'ilon[comma] o'zbekiya,07564454545,alpomish@margilan.uz,143;144,1|2024-09-24|bratnikini dateni o'zgartirmadik
+31,Alparslon,Quva[comma] Turkiston,07564323232,asp@arslon.turk,,2|2025-04-09|yana[comma] bitta record bratga
+32,fghjkl,hjk,07987565656,,,
+33,salam,alaikum,07567232323,,,
+34,salam' a,alaikum,07456343434,,,

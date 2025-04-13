@@ -1,0 +1,29 @@
+/project
+  ├── main.cpp +
+  ├── Owner.h / Owner.cpp +
+  ├── Pet.h / Pet.cpp + 
+  ├── Appointment.h / Appointment.cpp +
+  ├── User.h / User.cpp 
+  ├── Record.h / Record.cpp + 
+  ├── Vaccination.h + 
+  ├── owners.csv + 
+  ├── pets.csv +
+  └── appointments.csv
+
+
+Welcome to Veterinary Management System!
+
+1. Login as Staff
+2. Login as Veterinarian
+3. Exit
+
+Choose option: 1
+
+[If Staff]
+--- Staff Menu ---
+1. Add Owner
+2. Add Pet
+3. Add Appointment
+4. View All Appointments
+5. View All Owners & Pets
+6. Exit

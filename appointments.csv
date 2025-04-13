@@ -1,0 +1,23 @@
+appointment_id,owner_id,pet_id,date,time,purpose,status
+2,1,101,2025-03-21,14:30,Check-up,completed
+3,2,103,2025-03-22,16:00,Surgery follow-up,cancelled
+4,3,105,2025-03-23,11:00,Annual checkup,completed
+5,3,106,2025-04-23,10:00,Behavior evaluation,cancelled
+7,-1,108,2025-03-29,17:00,also chekcing,scheduled
+8,-1,116,2020-01-01,09:25,ishalyaptimi,completed
+9,2,104,2025-04-03,09:00,fasio[comma] vasd[comma] asdv[comma] aeavjpjafs,scheduled
+15,11,145,2026-01-02,09:00,fasdfje[comma] fa[comma]sd f[comma]d,cancelled
+16,11,116,2025-05-01,09:15,ishlaitda fasf s[comma]adf hahaahah,completed
+17,11,118,2025-05-01,19:25,Koroche tniasdf[comma] asfaeva,scheduled
+19,11,118,2025-07-01,20:00,Ho'p[comma] endi nima bo'ladi?,scheduled
+24,14,131,2025-09-01,13:00,Medical monthly checkup,scheduled
+25,21,130,2025-04-15,08:30,Bu faqtgina test uchun yozild,scheduled
+26,9,113,2025-04-14,09:25,O'chirliadi hozir,scheduled
+27,9,114,2026-01-02,09:10,bir yil ol oshiqroq bor yana,scheduled
+28,-1,133,2025-04-09,09:35,to test the nextappointmetnid[comma] there'a was an error,scheduled
+29,29,140,2025-04-11,08:30,Ho'p[comma] bu bratni biz hozir test qilyapmiz,scheduled
+30,29,140,2025-05-01,09:35,THis one[comma] is also being tested right now,cancelled
+31,30,143,2025-06-03,08:45,ho'p[comma] bu bratni appointmetn qo'shishini tekshiryapmiz,cancelled
+32,30,144,2025-07-09,09:45,bular binnarsaga keladida,scheduled
+33,11,118,2025-05-05,09:45,vaqt o'zgarmadi[comma] kun esa o'zgardi,completed
+34,11,118,2025-09-09,12:35,chisa[comma]fas fesfa[comma] f[comma]asd f,scheduled
